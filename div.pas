@@ -1,7 +1,14 @@
 program divisor;
 
+{
+Divisor Pascal Program
+Programmed By Jeremy Lee Harden
+Updated 2026-MAR-8
+ALGOL and Pascal stays LEGENDARY!!!
+}
+
 var
-	integer1 ,integer2 ,counter : integer;
+	integer1 ,integer2 ,counter : word;
 
 begin 
 	write('What number do you want to find the other numbers divisible to it? ');
